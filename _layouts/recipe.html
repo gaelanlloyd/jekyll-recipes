@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <article class="recipe">
+
+      <h1>{{ page.title }}</h1>
+
+      <p>By {{ page.author }}</p>
+
+      <hr />
+
+      <h2>Ingredients to buy</h2>
+
+      <ul class="ingredients">
+      {% for ingredient in page.ingredientsToBuy %}
+        <li>☐ <div class="measure">{{ ingredient.qty }}</div><div class="item">{{ ingredient.item }}</div></li>
+      {% endfor %}
+      </ul>
+
+      <h2>Ingredients you probably have</h2>
+
+      <ul class="ingredients" style="list-style-type: none;">
+      {% for ingredient in page.ingredientsYouHave %}
+        <li>☐ <div class="item">{{ ingredient }}</div></li>
+      {% endfor %}
+      </ul>
+
+      <h2>Equipment needed</h2>
+
+      <ul class="ingredients" style="list-style-type: none;">
+      {% for equipment in page.equipment %}
+        <li>☐ <div class="measure">{{ equipment.type }}</div><div class="item">{{ equipment.item }}</div></li>
+      {% endfor %}
+      </ul>
+
+      <h2>Instructions</h2>
+
+      <div class="instructions">
+        {{ content }}
+      </div>
+
+    </article>
+
+  </body>
+
+</html>
