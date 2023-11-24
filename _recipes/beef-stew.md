@@ -13,7 +13,7 @@ ingredients:
   - { qty: "~", item: "Worcestershire" }
 equipment:
   - { type: "Small", item: "Stainless steel mixing bowl" }
-  - { type: "~", item: "Large enameled cast iron  pot" }
+  - { type: "~", item: "Large enameled cast iron pot" }
 ---
 - Heat beef broth in the large enameled pot.
 - Add garlic and worcestershire sauce.
