@@ -4,6 +4,8 @@ title: Recipes
 permalink: /
 ---
 
+<ul class="pl1">
 {% for recipe in site.recipes %}
-  <p><a href="{{ recipe.url }}">{{ recipe.title }}</a>{% if recipe.description %} &middot; {{ recipe.description }}{% endif %}{% if recipe.yield %} &middot; {{ recipe.yield }}{% endif %}</p>
+  <li><a href="{{ recipe.url }}">{{ recipe.title }}</a>{% if recipe.description %} &middot; {{ recipe.description }}{% endif %}{% if recipe.yield %} &middot; {{ recipe.yield }}{% endif %}</li>
 {% endfor %}
+</ul>
