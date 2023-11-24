@@ -19,7 +19,7 @@ url: https://www.domain.com
 collections:
  recipes:
   output: true
-  permalink: /recipes/:title/
+  permalink: /:title/
 
 # --- DEFAULTS -----------------------------------------------------------------
 
