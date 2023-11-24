@@ -1,0 +1,52 @@
+---
+title: Shepherd's Pie
+author: Gaelan Lloyd
+ingredientsToBuy:
+  - { qty: "1.5 lbs", item: "Ground beef" }
+  - { qty: "3 packs", item: "Idahoan mashed potatoes" }
+  - { qty: "?", item: "Onion" }
+  - { qty: "2", item: "Carrots" }
+  - { qty: "1 can", item: "Corn" }
+  - { qty: "1 can", item: "Peas" }
+equipment:
+  - { type: "8x12", item: "Ceramic casserole dish (not glass)" }
+  - { type: "Small", item: "Stainless steel mixing bowl" }
+  - { type: "12 in", item: "Non-stick skillet" }
+ingredientsYouHave:
+  - Canola oil
+  - Flour
+  - Worcestershire sauce
+  - Tomato paste
+  - Garlic
+  - Chicken broth
+  - Rosemary
+  - Thyme
+---
+- Prepare the mashed potatoes according to the package instructions.
+- Chop the onion (want 1 cup worth)
+- Dice the carrots.
+- Heat the skillet with oil over medium-high heat.
+- When the oil starts to shimmer, add the onion and carrots. Saute for 3-4 min.
+- Heat the oven to 400 degrees.
+- Then, add to the skillet and cook until the beef is browned and cooked through:
+  - Ground beef
+  - Garlic
+  - 1 tsp each salt and pepper
+- Sprinkle 2 tbsp flour over the beef, continue to cook for another minute.
+- Then, add to the skillet:
+  - 2 tbsp Tomato paste
+  - Chicken broth
+  - Worcestershire sauce
+  - 2 tsp Rosemary
+  - 1 tsp Thyme
+- Bring to a boil, then reduce the heat to low and cover.
+- Simmer for 15 minutes until the sauce has thickened.
+- Add to the skillet:
+  - Corn
+  - Peas
+- Spread the mixture evenly into the casserole dish.
+- Top with mashed potatoes, starting around the edges.
+- Use a spatula to smooth over the potatoes, creating a seal to prevent the mixture from bubbling over.
+- Place dish on a baking sheet to catch drips into the middle of the oven.
+- Bake for 25 min until the potatoes begin to brown.
+- Allow to cool at least 15 min before serving.
