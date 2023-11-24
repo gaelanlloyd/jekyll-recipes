@@ -16,7 +16,7 @@ ingredientsYouHave:
   - Thyme
 ---
 
-Pairs well with the [white gravy with sausage recipe](/recipes/gravy-white-with-sausage/).
+Pairs well with the [white gravy with sausage recipe](/gravy-white-with-sausage/).
 
 - Melt 2 tbsp butter
 - In a large bowl, whisk together:
