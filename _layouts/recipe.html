@@ -12,37 +12,69 @@ layout: compress
 
       <h1>{{ page.title }}</h1>
 
-      <p>By {{ page.author }}</p>
+      {% if page.author %}
+        <p>By: {{ page.author }}</p>
+      {% endif %}
 
       <hr />
 
-      <h2>Ingredients to buy</h2>
+      {% if page.ingredients %}
+        <h2>Ingredients</h2>
+        <ul class="ingredients">
+        {% for ingredient in page.ingredients %}
+          {% include ingredient.html measure=ingredient.qty item=ingredient.item %}
+        {% endfor %}
+        </ul>
+      {% endif %}
 
-      <ul class="ingredients">
-      {% for ingredient in page.ingredientsToBuy %}
-        <li>☐ <div class="measure">{{ ingredient.qty }}</div><div class="item">{{ ingredient.item }}</div></li>
-      {% endfor %}
-      </ul>
+      {% if page.ingredientsToBuy %}
+        <h2>Ingredients to buy</h2>
+        <ul class="ingredients">
+        {% for ingredient in page.ingredientsToBuy %}
+          {% include ingredient.html measure=ingredient.qty item=ingredient.item %}
+        {% endfor %}
+        </ul>
+      {% endif %}
 
-      <h2>Ingredients you probably have</h2>
+      {% if page.ingredientsYouHave %}
+        <h2>Ingredients you probably have</h2>
+        <ul class="ingredients" style="list-style-type: none;">
+        {% for ingredient in page.ingredientsYouHave %}
+          {% include ingredient.html item=ingredient %}
+        {% endfor %}
+        </ul>
+      {% endif %}
 
-      <ul class="ingredients" style="list-style-type: none;">
-      {% for ingredient in page.ingredientsYouHave %}
-        <li>☐ <div class="item">{{ ingredient }}</div></li>
-      {% endfor %}
-      </ul>
+      {% if page.equipment %}
+        <h2>Equipment needed</h2>
+        <ul class="ingredients" style="list-style-type: none;">
+        {% for equipment in page.equipment %}
+          {% include ingredient.html measure=equipment.type item=equipment.item %}
+        {% endfor %}
+        </ul>
+      {% endif %}
 
-      <h2>Equipment needed</h2>
+      <hr />
 
-      <ul class="ingredients" style="list-style-type: none;">
-      {% for equipment in page.equipment %}
-        <li>☐ <div class="measure">{{ equipment.type }}</div><div class="item">{{ equipment.item }}</div></li>
-      {% endfor %}
-      </ul>
+      {% if page.yield %}
+        <p class="amt">{{ page.yield }}</p>
+        <hr />
+      {% endif %}
 
-      <h2>Instructions</h2>
+      {% comment %} ------------------------------------------- {% endcomment %}
 
-      <div class="instructions">
+      {% assign class = "instructions" %}
+
+      {% assign li_elements = content | split: '</li>' %}
+      {% assign num_li_elements = li_elements | size | minus: 1 %}
+
+      {% if num_li_elements > 20 %}
+        {% assign class = class | append: ' has-columns' %}
+      {% endif %}
+
+      {% comment %} ------------------------------------------- {% endcomment %}
+
+      <div class="{{ class }}">
         {{ content }}
       </div>
 

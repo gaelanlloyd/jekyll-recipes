@@ -22,7 +22,7 @@ body, input, textarea {
     line-height: 1.333rem;
 }
 
-h1 { margin: 0; }
+h1 { margin: 0 0 1rem 0; }
 
 h2 {
 	font-size: 15px;
@@ -31,7 +31,13 @@ h2 {
 
 p, li, div { font-size: 14px; }
 
-hr { background-color: #7F7F7F; }
+p { margin: 0 0 1rem 0; }
+p.amt { margin-top: 1rem; }
+
+hr {
+    border-top: 1px solid #7F7F7F;
+    margin: 0;
+}
 
 pre {
 	font-family: monospace !important;
@@ -65,30 +71,19 @@ code {
 
 }
 
-@media only print {
-
-    /* Left margin for three-hole punch */
-    // html { padding-left: 3rem; }
-
-    article {
-        margin: 0;
-        padding: 0;
-    }
-}
 
 ul.ingredients {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     list-style-type: none;
     padding: 0;
-    margin: 0;
+    margin-top: 0;
 
     li {
         display: flex;
         flex-direction: row;
         gap: 10px;
-        flex-basis: 50%;
         line-height: $lineHeight;
     }
 
@@ -97,16 +92,53 @@ ul.ingredients {
     }
 }
 
+.instructions {
+    padding-top: 1rem;
+}
+
+
 .instructions > ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0; 
+    list-style-type: decimal;
+    padding: 0 0 0 1rem;
+    margin: 0;
 
     ul {
-        padding-left: 2rem;
+        margin-top: 0rem;
+        padding-left: 1.5rem;
         list-style-type: square;
+        break-inside: avoid;
     }
 
-    li { line-height: $lineHeight; }
+    li {
+    }
+
+    & > li {
+        line-height: $lineHeight;
+        break-inside: avoid;
+    }
+
+}
+
+/* --- NON-MOBILE AND PRINT STYLES ------------------------------------------ */
+
+@media print, screen and (min-width: 768px ) {
+
+    ul.ingredients {
+        flex-direction: row;
+        li { flex-basis: 50%; }
+    }
+
+    .instructions.has-columns { columns: 2; }
+
+}
+
+/* --- PRINT STYLES --------------------------------------------------------- */
+
+@media only print {
+
+    article {
+        margin: 0;
+        padding: 0;
+    }
 
 }
