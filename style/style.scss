@@ -93,28 +93,27 @@ ul.ingredients {
 
 .instructions {
     padding-top: 1rem;
-}
-
-
-.instructions > ul {
-    list-style-type: decimal;
-    padding: 0 0 0 1rem;
-    margin: 0;
 
     ul {
-        margin-top: 0rem;
-        padding-left: 1.5rem;
-        list-style-type: square;
-        break-inside: avoid;
+        list-style-type: decimal;
+        padding: 0 0 0 1rem;
+
+        ul {
+            margin-top: 0rem;
+            padding-left: 1.5rem;
+            list-style-type: square;
+            break-inside: avoid;
+        }
+
+        & > li {
+            line-height: $lineHeight;
+            break-inside: avoid;
+        }
+
     }
 
-    li {
-    }
-
-    & > li {
-        line-height: $lineHeight;
-        break-inside: avoid;
-    }
+    ul:last-child { margin-bottom: 0; }
+    ul:first-child { margin-top: 0; }
 
 }
 
