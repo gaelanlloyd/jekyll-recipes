@@ -23,3 +23,8 @@ equipment:
 - Coat the beef cubes in this mixture and move them to the larger bowl.
 - Brown the beef in batches, then add to the pot.
 - Bring the pot to a boil, then cover and simmer for 1 hour or more.
+
+Paula Deen tip:
+- To thicken gravy, remove 2 cups of hot liquid.
+- In a separate bowl, combine 1/4 cup corn starch and water. Mix until smooth.
+- Mix in some hot liquid, then return to pot. Stir to combine.

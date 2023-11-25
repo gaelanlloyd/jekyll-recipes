@@ -1,0 +1,42 @@
+---
+title: Chicken Parmesan
+author: Ian Sherman
+ingredientsToBuy:
+  - { qty: "4-6", item: "Chicken breasts (boneless)" }
+  - { qty: "1", item: "Onion" }
+  - { qty: "45 oz", item: "Crushed tomatoes (~3 cans)" }
+  - { qty: "1 lb", item: "Thin linguine" }
+  - { qty: "1 cup", item: "Fresh grated parmesan" }
+  - { qty: "1 cup", item: "Fresh chopped parsely" }
+equipment:
+  - { type: "12 in", item: "Non-stick skillet" }
+  - { type: "~", item: "Large pot" }
+---
+- Chop the onion.
+- Trim chicken breasts and pound flat between sheets of parchment paper until about 1/4" thick.
+- Mix the batter coating on a large plate:
+  - 1/2 cup Flour
+  - Salt
+  - Pepper
+- Dredge flattened chicken breasts in flour mixture. Set aside on wax paper.
+- In the skillet, heat olive oil (1/4 cup) and butter (1 tbsp) over medium heat.
+- Fry chicken breasts until golden brown on each side (about 3 min/side).
+- Remove chicken breasts from the skillet and keep warm (on plate with microwave cover).
+- Add to skillet, then stir gently for 2 min:
+  - Garlic (4 cloves)
+  - Chopped onion
+- Add onions and garlic to skillet, stir gently for 2 min.
+- Add to skillet, then scrape up fond using:
+  - Wine (Red or white, 3/4 cup)
+- Allow wine to cook down by half (about 2 min).
+- Start a pot of boiling salted water for the pasta.
+- Add to skillet, then cook for 30 min:
+  - Crushed tomatoes
+  - Sugar (2 tbsp)
+  - Salt and pepper
+- Cook the pasta.
+- Add to skillet:
+  - Chopped parsley
+- Carefully lay chicken breasts on top of sauce, cover in Parmesan.
+- Cover skillet, reduce heat to low. Simmer until cheese has melted and chicken is heated through.
+- Plate cooked noodles, cover with sauce. Place chicken breast on plated noodles, sprinkle with parsley.

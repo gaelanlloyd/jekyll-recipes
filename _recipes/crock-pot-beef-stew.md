@@ -1,0 +1,45 @@
+---
+title: Crock Pot Beef Stew
+ingredientsToBuy:
+  - { qty: "2 lbs", item: "Steak cubes" }
+  - { qty: "1 can", item: "Beef broth" }
+  - { qty: "1 can", item: "Condensed tomato soup (10.75 oz)" }
+  - { qty: "1", item: "Golden onion (Large)" }
+  - { qty: "2", item: "Russet potatoes (Large)" }
+  - { qty: "4", item: "Carrots" }
+  - { qty: "4", item: "Celery stalks" }
+  - { qty: "8 oz", item: "Mushrooms (sliced)" }
+  - { qty: "1 can", item: "Peas" }
+ingredientsYouHave:
+  - Celery seed
+  - Bay leaves
+equipment:
+  - { type: "12 in", item: "Non-stick skillet" }
+  - { type: "~", item: "Crock pot" }
+---
+- Prepare the vegetables
+  - Peel and slice the onions.
+  - Peel and cube the potatoes.
+  - Cut carrots into 1 inch slices.
+  - Bias-cut celery into 1 inch slices.
+- Coat the meat with flour, in small batches to ensure even coverage.
+- Brown the meat in the skillet in oil over medium-high heat. Brown in batches, transferring to crock pot when done. Retain the fond.
+- After all the meat is done, pour some beef broth into the skillet and scrape up the fond.
+- Add in to the skillet and stir to combine:
+  - Tomato soup
+  - Italian seasoning (1 tbsp)
+  - 2 bay leaves
+  - Black pepper (1 tsp)
+  - Butter (2 tbsp)
+- Pour the skillet mixture over the meat in the crock pot.
+- Add in to the crock pot:
+  - Onions
+  - Potatoes
+  - Carrots
+  - Celery
+  - Mushrooms
+- Cover and cook on low for 8 hours.
+- 30 min before serving, add:
+  - Peas
+  - Butter (2 tbsp)
+- Remove the bay leaves prior to serving (if you can find them)
