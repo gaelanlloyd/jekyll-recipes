@@ -12,7 +12,9 @@ tagline: Recipes
 description: Recipes
 
 # Site's URL
-url: https://www.domain.com
+url: https://recipes.gaelanlloyd.com
+
+urlRepo: https://github.com/gaelanlloyd/jekyll-recipes
 
 # --- COLLECTIONS --------------------------------------------------------------
 
