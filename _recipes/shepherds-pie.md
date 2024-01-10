@@ -2,48 +2,48 @@
 title: Shepherd's Pie
 author: Gaelan Lloyd
 ingredientsToBuy:
-  - { qty: "1.5 lbs", item: "Ground beef" }
+  - { qty: "3 lbs", item: "Ground beef" }
   - { qty: "3 packs", item: "Idahoan mashed potatoes" }
-  - { qty: "?", item: "Onion" }
-  - { qty: "2", item: "Carrots" }
+  - { qty: "1", item: "Onion (Large, golden)" }
+  - { qty: "4", item: "Carrots" }
   - { qty: "1 can", item: "Corn" }
   - { qty: "1 can", item: "Peas" }
   - { qty: "1 can", item: "Campbell's condensed mushroom soup" }
+  - { qty: "1 cup", item: "Chicken broth" }
+  - { qty: "4 tbsp", item: "Tomato paste" }
 equipment:
   - { type: "8x12", item: "Ceramic casserole dish (not glass)" }
   - { type: "Small", item: "Stainless steel mixing bowl" }
-  - { type: "12 in", item: "Non-stick skillet" }
+  - { type: "~", item: "Large enameled cast iron pot" }
 ingredientsYouHave:
   - Canola oil
   - Flour
   - Worcestershire sauce
   - Tomato paste
   - Garlic
-  - Chicken broth (1 cup)
   - Rosemary
   - Thyme
 ---
-- Chop the onion (want 1 cup worth)
+- Chop the onion.
 - Dice the carrots.
-- Heat the skillet with oil over medium-high heat.
+- Heat the pot with oil over medium-high heat.
 - When the oil starts to shimmer, add the onion and carrots. Saute for 3-4 min.
-- Then, add to the skillet and cook until the beef is browned and cooked through:
-  - Ground beef
+- Then, add the beef and cooked until browned and cooked through, and add:
   - Garlic (1 tsp)
-  - 1 tsp each salt and pepper
-- Sprinkle 2 tbsp flour over the beef, continue to cook for another minute.
-- Then, add to the skillet:
-  - 2 tbsp Tomato paste
-  - Mushroom soup (test: try adding this next time)
-  - Chicken broth (1 cup)
+  - 2 tsp each salt and pepper
+- Sprinkle 4 tbsp flour over the beef, continue to cook for another minute.
+- Then, add to the pot:
+  - 4 tbsp Tomato paste
+  - Mushroom soup
+  - Chicken broth
   - Worcestershire sauce
-  - 1 tsp Rosemary
-  - 1 tsp Thyme
+  - 2 tsp Rosemary
+  - 2 tsp Thyme
 - Bring to a boil, then reduce the heat to low and cover.
 - Simmer for 15 minutes until the sauce has thickened.
 - While the sauce is simmering, prepare the mashed potatoes according to the package instructions.
 - Heat the oven to 400 degrees.
-- Add to the skillet:
+- Add to the pot:
   - Corn
   - Peas
 - Spread the mixture evenly into the casserole dish.
