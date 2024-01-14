@@ -24,7 +24,7 @@ ingredientsYouHave:
   - Eggs
   - Whipping cream
   - Half and half
-  - Flour
+  - Flour (2 tbsp)
   - Salt and pepper
   - Nutmeg
 - Place bacon, cheese, and some green onion in the pie crust.
