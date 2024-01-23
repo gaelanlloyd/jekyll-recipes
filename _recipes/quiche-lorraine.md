@@ -4,11 +4,11 @@ author: Gaelan Lloyd
 yield: Makes two quiches.
 ingredientsToBuy:
   - { qty: "2", item: "Frozen deep-dish pie crusts" }
-  - { qty: "79 g", item: "Pack of 'Real Bacon Pieces'" }
+  - { qty: "2x 79g", item: "Packs of 'Real Bacon Pieces'" }
   - { qty: "1.5 cups", item: "Cheddar cheese (shredded)" }
   - { qty: "4", item: "Eggs" }
-  - { qty: "230 ml", item: "Whipping cream" }
-  - { qty: "230 ml", item: "Half and half" }
+  - { qty: "250 ml", item: "Whipping cream" }
+  - { qty: "250 ml", item: "Half and half" }
   - { qty: "1", item: "Green onion (small bunch)" }
 ingredientsYouHave:
   - Flour
@@ -20,15 +20,19 @@ ingredientsYouHave:
 - Bake the crusts for 5 minutes until lightly browned.
 - Cool the crusts on a wire rack.
 - Very thinly slice one green onion stalk.
-- Whisk together:
+- Whisk in the mixing bowl:
   - Eggs
+- Add and whisk in:
   - Whipping cream
   - Half and half
   - Flour (2 tbsp)
   - Salt and pepper
   - Nutmeg
-- Place bacon, cheese, and some green onion in the pie crust.
+- Into each crust, add:
+  - 1 full pack of bacon bits
+  - Cheese
+  - Some green onion
 - Gently pour batter into pie crust.
 - Top with some green onion.
-- To prevent crust from burning, you can wrap it in a thin strip of aluminum foil.
+- Wrap the crust to prevent burning (aluminum foil or silicone crust protectors)
 - Bake for 50 min until quiche is lightly brown and set in middle.
