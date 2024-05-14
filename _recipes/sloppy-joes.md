@@ -1,7 +1,7 @@
 ---
 title: Sloppy Joes
 author: Ian Sherman
-description: Sourced from [The Chunky Chef](https://www.thechunkychef.com/best-homemade-sloppy-joes/)
+description: Sourced from The Chunky Chef https://www.thechunkychef.com/best-homemade-sloppy-joes/)
 ingredients:
   - { qty: "1 med", item: "Yellow onion" }
   - { qty: "1", item: "Green bell pepper" }
