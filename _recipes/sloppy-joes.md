@@ -46,6 +46,6 @@ ingredientsYouHave:
     - 1/3 cup water
     - Worcestershire sauce
 - Cook and stir until the sauce is even distributed and a bit thickened. 
-- Right before serving, mix in yellow mustard
+- Right before serving, mix in yellow mustard.
 - Season to taste. 
 - Spoon over toasted buns. 
