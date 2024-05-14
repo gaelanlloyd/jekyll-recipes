@@ -16,5 +16,9 @@ equipment:
 ---
 - Finely chop onion and celery (stalk and leaves). Put in bowl.
 - Add tuna to bowl. Season with salt, pepper, and dill.
-- Add mustard, mayonnaise, oil, and vinegar to bowl. Mix until well blended.
-- Taste to adjust seasonings.
+- Add to bowl and mix until well blended:
+    - Mustard
+    - Mayonnaise
+    - Oil
+    - Vinegar
+- Season to taste.
