@@ -71,6 +71,10 @@ code {
 
 }
 
+ul.bulleted {
+    list-style-type: square !important;
+}
+
 ul.ingredients {
     display: flex;
     flex-direction: column;
