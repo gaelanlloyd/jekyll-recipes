@@ -3,14 +3,14 @@ title: Shepherd's Pie
 author: Gaelan Lloyd
 ingredientsToBuy:
   - { qty: "3 lbs", item: "Ground beef" }
-  - { qty: "3 packs", item: "Idahoan mashed potatoes" }
+  - { qty: "4 packs", item: "Idahoan mashed potatoes" }
   - { qty: "1", item: "Onion (Large, golden)" }
   - { qty: "4", item: "Carrots" }
   - { qty: "1 can", item: "Corn" }
   - { qty: "1 can", item: "Peas" }
   - { qty: "1 can", item: "Campbell's condensed mushroom soup" }
   - { qty: "1 cup", item: "Chicken broth" }
-  - { qty: "4 tbsp", item: "Tomato paste" }
+  - { qty: "4 tbsp", item: "Tomato paste (buy 1 fresh tube)" }
 equipment:
   - { type: "8x12", item: "Ceramic casserole dish (not glass)" }
   - { type: "Small", item: "Stainless steel mixing bowl" }
@@ -25,7 +25,7 @@ ingredientsYouHave:
   - Thyme
 ---
 - Chop the onion.
-- Dice the carrots.
+- Dice the carrots. Cut lengthwise, then again, then dice.
 - Heat the pot with oil over medium-high heat.
 - When the oil starts to shimmer, add the onion and carrots. Saute for 3-4 min.
 - Then, add the beef and cooked until browned and cooked through, and add:
