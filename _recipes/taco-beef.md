@@ -7,11 +7,6 @@ ingredientsToBuy:
   - { qty: "2 cans", item: "Tomato sauce" }
   - { qty: "2 tbsp", item: "Fresh cilantro" }
   - { qty: "1", item: "Lime" }
-  - { qty: "1 doz", item: "Taco shells" }
-  - { qty: "1 pkg", item: "Shredded cheese" }
-  - { qty: "~", item: "Salsa" }
-  - { qty: "~", item: "Sour cream" }
-  - { qty: "~", item: "Shredded lettuce" }
 ingredientsYouHave:
   - Cumin
   - Chili powder
