@@ -1,7 +1,7 @@
 ---
 title: Quiche Lorraine
 author: Gaelan Lloyd
-yield: Makes two quiches.
+yield: Makes two quiches. (See below for QTY 6)
 ingredientsToBuy:
   - { qty: "2", item: "Frozen deep-dish pie crusts" }
   - { qty: "2x 79g", item: "Packs of 'Real Bacon Pieces'" }
@@ -36,3 +36,13 @@ ingredientsYouHave:
 - Top with some green onion.
 - Wrap the crust to prevent burning (aluminum foil or silicone crust protectors)
 - Bake for 50 min until quiche is lightly brown and set in middle.
+
+---
+
+To make 6 quiches:
+- 6 frozen pie crusts
+- 567g pack of 'Real Bacon Pieces'
+- 32 oz bag of cheddar cheese (shredded)
+- 12 eggs
+- 750 ml Whipping Cream
+- 750 ml Half and Half
