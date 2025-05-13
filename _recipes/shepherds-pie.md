@@ -1,6 +1,7 @@
 ---
 title: Shepherd's Pie
 author: Gaelan Lloyd
+yield: Makes three long skinny Pyrex dishes.
 ingredientsToBuy:
   - { qty: "3 lbs", item: "Ground beef" }
   - { qty: "3 packs", item: "Idahoan mashed potatoes (4 oz)" }
