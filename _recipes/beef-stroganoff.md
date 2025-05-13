@@ -13,7 +13,6 @@ ingredientsYouHave:
   - Flour
 equipment:
   - { type: "12 in", item: "Non-stick skillet" }
-
   - { type: "Small", item: "Stainless steel mixing bowl" }
   - { type: "~", item: "Large enameled cast iron pot" }
 ---
