@@ -5,7 +5,7 @@ yield: Makes two quiches. (See below for QTY 6)
 ingredientsToBuy:
   - { qty: "2", item: "Frozen deep-dish pie crusts" }
   - { qty: "2x 79g", item: "Packs of 'Real Bacon Pieces'" }
-  - { qty: "1.5 cups", item: "Cheddar cheese (shredded)" }
+  - { qty: "1.5 cups", item: "Cheddar cheese (mild, shredded)" }
   - { qty: "4", item: "Eggs" }
   - { qty: "250 ml", item: "Whipping cream" }
   - { qty: "250 ml", item: "Half and half" }
