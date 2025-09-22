@@ -45,3 +45,8 @@ gem "standard", group: [:development, :test]
 
 # Markdown linter
 gem "mdl"
+
+# 2025 dependency fixes
+gem "csv"
+gem "base64"
+gem "bigdecimal"
