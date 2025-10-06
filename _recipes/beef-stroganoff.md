@@ -7,8 +7,8 @@ ingredients:
   - { qty: "1 can", item: "Beef broth (10.75 oz)" }
   - { qty: "1 pack", item: "Egg noodles (or any pasta)" }
   - { qty: "1 cup", item: "Sour cream OR" }
-  - { qty: "~", item: "Shredded pepper jack cheese" }
   - { qty: "8 oz", item: "Mushrooms (sliced)" }
+  - { qty: "1 pkg", item: "Texas Toast" }
 ingredientsYouHave:
   - Flour
 equipment:
