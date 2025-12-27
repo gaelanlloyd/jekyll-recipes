@@ -5,7 +5,7 @@ yield: Makes two quiches. (See below for QTY 6)
 ingredientsToBuy:
   - { qty: "2", item: "Frozen deep-dish pie crusts" }
   - { qty: "2x 79g", item: "Packs of 'Real Bacon Pieces'" }
-  - { qty: "1.5 cups", item: "Cheddar cheese (mild, shredded)" }
+  - { qty: "8 oz", item: "Cheddar cheese (mild, shredded)" }
   - { qty: "4", item: "Eggs" }
   - { qty: "250 ml", item: "Whipping cream" }
   - { qty: "250 ml", item: "Half and half" }
@@ -19,7 +19,7 @@ ingredientsYouHave:
 - Pierce the sides and bottom with a fork to create areas for air bubbles to escape.
 - Bake the crusts for 5 minutes until lightly browned.
 - Cool the crusts on a wire rack.
-- Very thinly slice one green onion stalk.
+- Very thinly slice two green onion stalks.
 - Whisk in the mixing bowl:
   - Eggs
 - Add and whisk in:
