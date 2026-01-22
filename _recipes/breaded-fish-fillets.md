@@ -1,7 +1,7 @@
 ---
 title: Breaded Fish Fillets
 author: Ian Sherman
-description: optional
+description: For crispy baked fish
 ingredients:
   - { qty: "4", item: "8 oz. White fish fillets, thawed" }
   - { qty: "1/2 cup", item: "All-purpose flour" }
