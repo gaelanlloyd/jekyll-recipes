@@ -5,19 +5,21 @@ description: Sourced from The Chunky Chef https://www.thechunkychef.com/best-hom
 ingredients:
   - { qty: "2 med", item: "Yellow onion" }
   - { qty: "2", item: "Green bell pepper" }
-  - { qty: "3 tbsp", item: "Minced garlic" }
   - { qty: "3 lbs", item: "Ground beef" }
-  - { qty: "3 tbsp", item: "Mild chili powder" }
-  - { qty: "1.5 tsp", item: "Chili flakes" }
   - { qty: "6 oz can", item: "Tomato paste" }
-  - { qty: "1 cup", item: "Ketchup" }
-  - { qty: "2 tbsp", item: "Worcestershire Sauce" }
-  - { qty: "3 tbsp", item: "Yellow mustard" }
   - { qty: "8", item: "Hamburger buns" }
+  - { qty: "8 oz", item: "Baby Bella mushrooms, sliced" }
+  - { qty: "-", item: "Pepper jack cheese, sliced" }
 equipment:
   - { type: "Large", item: "Dutch oven (iron or nonstick)" }
   - { type: "~", item: "Toaster oven" }
 ingredientsYouHave:
+  - { qty: "3 tbsp", item: "Minced garlic" }
+  - { qty: "3 tbsp", item: "Mild chili powder" }
+  - { qty: "½ tsp", item: "Chili flakes" }
+  - { qty: "1 cup", item: "Ketchup" }
+  - { qty: "3 tbsp", item: "Yellow mustard" }
+  - { qty: "2 tbsp", item: "Worcestershire Sauce" }
   - Butter
   - Olive oil
   - Water
@@ -35,16 +37,18 @@ ingredientsYouHave:
 - Add the ground beef to the Dutch oven.
     - Season with salt.
     - Break up and fry until browned.
+- While the meat is browning, finely chop the mushrooms.
 - Add the following ingredients and fry for about a minute:
     - Chili powder
     - Chili flakes
     - Tomato paste
-- Add the aromatics back in.
-- Mix in the following:
+- Add into the pot then mix thoroughly:
+    - The saved, cooked onion and bell pepper.
+    - The chopped mushrooms.
     - Ketchup
     - 1/3 cup water
     - Worcestershire sauce
 - Cook and stir until the sauce is evenly distributed and thickened.
 - Toast buns to desired level of brownness.
 - Right before serving, mix in yellow mustard.
-- Spoon over toasted buns.
+- Spoon over toasted buns and thick slices of pepper jack cheese.
