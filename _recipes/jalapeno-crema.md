@@ -9,7 +9,7 @@ ingredients:
   - { qty: "1", item: "Egg yolk" }
   - { qty: "1 small bunch”, item: "Cilantro (Optional)" }
 equipment:
-  - { item: "Blender" }
+  - { qty: "", item: "Blender" }
 ingredientsYouHave:
   - 1 tsp Salt
   - Pepper to taste
