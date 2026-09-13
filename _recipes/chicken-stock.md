@@ -9,7 +9,7 @@ ingredients:
   - { qty: "1 tbsp", item: "Rosemary" }
   - { qty: "3-4", item: "Bay leaves" }
 equipment:
-  - { type: "~", item: "InstaPot" }
+  - { type: "~", item: "Instant Pot" }
 ---
 - Place mostly picked-clean whole chicken into InstaPot.
 - Cover with cold water.
@@ -17,6 +17,7 @@ equipment:
 - Cut the celery and carrot into large pieces, add into pot.
 - Dice the onion, add into pot.
 - Add Rosemary, Bay Leaves into pot.
-- Set InstaPot to Soup/Broth, cook for 25 min.
+- Set Instant Pot to Soup/Broth, cook for 40 min.
+- Allow the Instant Pot to cool down without releasing pressure. 
 - Drain the broth into a bowl to save.
 - Discard the rest of the solids.
