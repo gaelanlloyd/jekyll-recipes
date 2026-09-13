@@ -3,13 +3,13 @@ title: Jalapeno Crema Salsa
 author: Ian Sherman
 description: Based off salsas in PV
 ingredients:
-  - { qty: “8”, item: “Whole jalapeños” }
-  - { qty: “1/2 cup”, item: “Water” }
-  - { qty: “1/2 cup”, item: “Oil (olive or canola” }
-  - { qty: “1”, item: “Egg yolk” }
-  - { qty: "1 small bunch”, item: “Cilantro (Optional)” }
+  - { qty: "8", item: "Whole jalapeños" }
+  - { qty: "1/2 cup", item: "Water" }
+  - { qty: "1/2 cup", item: "Oil (olive or canola)" }
+  - { qty: "1", item: "Egg yolk" }
+  - { qty: "1 small bunch”, item: "Cilantro (Optional)" }
 equipment:
-  - { item: “Blender” }
+  - { item: "Blender" }
 ingredientsYouHave:
   - 1 tsp Salt
   - Pepper to taste
