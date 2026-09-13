@@ -13,7 +13,7 @@ ingredients:
   - { qty: "1.5 tsp", item: "Sugar" }
 equipment:
   - { type: "1-quart", item: "jar" }
-  - [ type: "1", item: "molcajete" }
+  - { type: "1", item: "molcajete" }
 ingredientsYouHave:
   - Salt
   - Sugar
