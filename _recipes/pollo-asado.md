@@ -1,21 +1,20 @@
 ---
 title: Pollo Asado
 author: Ian Sherman
-description: optional
 ingredients:
-  - { qty: "10 lbs”, item: “Chicken thighs, boneless and skinless }
-  - { qty: "1 cup”, item: “Olive oil” }
-  - { qty: "1 cup”, item: “Orange juice” }
-  - { qty: “2/3 cup”, item: “Lime juice or lemon juice” }
-  - { qty: “3 tbsp”, item: “Achiote paste” }
-  - { qty: “10 cloves”, item: “Garlic” }
-  - { qty: “2 tbsp”, item: “Dried oregano or Italian herbs”}
-  - { qty: “1 tbsp”, item: “Cumin seeds”}
-  - { qty: “1 tbsp”, item: “Coriander seeds”}
+  - { qty: "10 lbs", item: "Chicken thighs, boneless and skinless" }
+  - { qty: "1 cup", item: "Olive oil" }
+  - { qty: "1 cup", item: "Orange juice" }
+  - { qty: "2/3 cup", item: "Lime juice or lemon juice" }
+  - { qty: "3 tbsp", item: "Achiote paste" }
+  - { qty: "10 cloves", item: "Garlic" }
+  - { qty: "2 tbsp", item: "Dried oregano or Italian herbs"}
+  - { qty: "1 tbsp", item: "Cumin seeds"}
+  - { qty: "1 tbsp", item: "Coriander seeds"}
 equipment:
-  - { item: “Blender” }
-  - { type: “Large”, item: "Stainless steel mixing bowl" }
-  - { item: “Charcoal grill” }
+  - { item: "Blender" }
+  - { type: "Large", item: "Stainless steel mixing bowl" }
+  - { item: "Charcoal grill" }
 ingredientsYouHave:
   - 2 tsp salt
   - Black pepper to taste
