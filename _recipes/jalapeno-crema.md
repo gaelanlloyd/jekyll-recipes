@@ -7,7 +7,7 @@ ingredients:
   - { qty: "1/2 cup", item: "Water" }
   - { qty: "1/2 cup", item: "Oil (olive or canola)" }
   - { qty: "1", item: "Egg yolk" }
-  - { qty: "1 small bunch”, item: "Cilantro (Optional)" }
+  - { qty: "1 small bunch", item: "Cilantro (Optional)" }
 equipment:
   - { type: "", item: "Blender" }
 ingredientsYouHave:
