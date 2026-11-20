@@ -25,9 +25,10 @@ ingredientsYouHave:
   - Bread crumbs
 ---
 - Prep:
-  - Make broth/chicken stock
-  - Get out Rosemary/Thyme
+  - Make broth/chicken stock (use a heaping amount)
+  - Get out Rosemary, Thyme, Breadcrumbs
   - Chop onions
+  - Open cans
 - Heat the pots with oil or butter over medium-high heat.
 - Add the onion. Saute with salt and pepper.
 - Add the beef evenly between the pots and mix in a total of:
@@ -37,7 +38,7 @@ ingredientsYouHave:
 - Cook until meat is evenly browned.
 - Then, mix in to each pot:
   - Cooking wine
-  - 4 tbsp flour
+  - 6 tbsp flour
 - Transfer the beef into the larger pot.
 - Then, mix in:
   - Tomato paste
@@ -52,7 +53,7 @@ ingredientsYouHave:
 - Mix in the frozen corn and peas.
 - Make the mashed potatoes.
 - Spray the casserole dishes with Pam.
-- Spread the mixture evenly into the casserole dishes and press it down.
+- Spread mixture evenly into dishes, and press down.
 - Top with mashed potatoes. Using a spatula, put large clumps down. Gently smooth over the potatoes, pulling towards the edges and pressing down. Create a seal at the edges to prevent the mixture from bubbling over.
 - Cover with bread crumbs (mixed in butter, sprayed with Pam?)
 - Spray the potato surface with Pam to help crisping.
